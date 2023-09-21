@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641672882185",
+    "project_id": "cloudcounselagechatbot",
+    "storage_bucket": "cloudcounselagechatbot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641672882185:android:746ad4f82e48359cf670d8",
+        "android_client_info": {
+          "package_name": "com.example.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641672882185-irmrtg76tbhed4hrjno0io7aou15vkni.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatbot",
+            "certificate_hash": "888f8a4d66aafa00559aba2ce1b39758407ebd73"
+          }
+        },
+        {
+          "client_id": "641672882185-d4v8v2nbh5uqtplh1cl10r0etmqsegfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBitsAG8U0QkR7m_T37ndZvXnnEi5IMsN0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641672882185-d4v8v2nbh5uqtplh1cl10r0etmqsegfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
